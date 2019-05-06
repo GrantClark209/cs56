@@ -1,5 +1,0 @@
-Lecture 1 Notes (4/1/18)
-
-Breakdown of Java
-    1) Write Source Code
-    2) Compile
